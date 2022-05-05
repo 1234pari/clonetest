@@ -1,0 +1,2 @@
+this is to add to git remote repo.
+because, if the folder is empty, it is not adding the folder
